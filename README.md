@@ -6,7 +6,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 ## 🏗️ Data Architecture
 
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
@@ -21,6 +21,14 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
+🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+- SQL Development
+- Data Architect
+- Data Engineering  
+- ETL Pipeline Developer  
+- Data Modeling  
+- Data Analytics  
 
 ---
 
@@ -50,6 +58,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
+For more details, refer to [docs/requirements.md](docs/requirements.md).
+
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
@@ -76,4 +86,11 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 ```
----
+
+## 🌟 About Me
+
+Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+
+Let's stay in touch! Feel free to connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
